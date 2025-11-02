@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sobre nosotros</title>
+
+    <link href="styles.css" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  </head>
+
+  <body class="bg-light d-flex flex-column justify-content-between" style="min-height: 100vh;">
+    <header class="d-flex justify-content-center">
+      <nav class="d-flex align-items-center fw-semibold border-bottom border-secondary-subtle border-2 menu-contenedor position-relative" id="menu-open">
+        
+        <div class="menu-icono m-4" onclick="openClose()">
+          <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24"><path fill="#000000" d="M3 18v-2h18v2H3Zm0-5v-2h18v2H3Zm0-5V6h18v2H3Z"/></svg>
+        </div>
+
+        <div class="w-100 d-flex justify-content-sm-evenly align-items-center menu-links" id="menu-links">
+          <a href="index.html" class="links fs-5" id="home">Inicio</a>
+          <a href="galeria.html" class="links fs-5" id="galeria">Galería</a>
+          <a href="nosotros.html" class="links active fs-5" id="nosotros">Sobre nosotros</a>
+        </div>
+      </nav>
+
+    </header>
+
+  <main class="w-100">
+    <section class="about-section">
+        <h1 class="mb-5 mt-4 ft-800">El Mundo a Través de los Ojos de Mercy Lucía Peña</h1>
+        
+        <h2 class="ft-800">Nuestra Historia: La Visión de Pixelarium</h2>
+        <p>Pixelarium no es solo una galería; es un <strong>viaje curado a través de la imaginación</strong> y la habilidad de artistas de todo el mundo. Todo comenzó con un sueño de <strong>Mercy Lucía Peña</strong>, una apasionada coleccionista y devota de las historias visuales.</p>
+
+        <p>Tras años de admirar en silencio la diversidad del arte digital y la fotografía, Mercy se propuso crear un espacio donde la confluencia de estilos —desde el realismo conmovedor hasta la abstracción desafiante— pudiera celebrarse en un solo lugar. Pixelarium es el resultado de su dedicación a la <strong>belleza de la compilación</strong>, ofreciendo una perspectiva fresca y en constante evolución del panorama artístico global.</p>
+
+        <blockquote class="quote bg-body-secondary p-4 m-5">
+            "Cada imagen es una ventana a un universo. En Pixelarium, mi misión es abrir tantas ventanas como sea posible, permitiendo que la luz de la creatividad ilumine a todos nuestros visitantes." - <strong>Mercy Lucía Peña, Fundadora y Curadora Principal.</strong>
+        </blockquote>
+
+        <hr>
+
+        <h2 class="my-4 ft-800">Nuestra Misión</h2>
+        <p class="mb-5">Proveer una plataforma accesible y estéticamente rica para la <strong>compilación y exhibición de obras de autores diversos</strong>. Buscamos inspirar, conectar y sorprender a nuestra audiencia con colecciones cuidadosamente seleccionadas que trascienden fronteras y categorías.</p>
+
+        <hr>
+
+        <h2 class="my-4 ft-800">Conéctate con Mercy y el Equipo</h2>
+        <p class="mb-4">¿Tienes una pregunta sobre una obra, quieres sugerir un artista, o simplemente quieres compartir tu apreciación? Nos encantaría escucharte. Usa el formulario a continuación para contactar directamente a Mercy Lucía Peña y al equipo de Pixelarium.</p>
+        
+        <form action="mailto:mercy.lucia.pena@tudominio.com" method="POST" class="contact-form bg-body-secondary px-5 py-4 rounded-4 shadow-sm mb-4">
+            <label for="name">Nombre:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Correo Electrónico:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="subject">Asunto:</label>
+            <input type="text" id="subject" name="subject" required>
+
+            <label for="message">Mensaje:</label>
+            <textarea id="message" name="message" rows="6" required></textarea>
+
+            <button class="btn mt-4 py-2 px-4" type="submit">Enviar Mensaje</button>
+        </form>
+    </section>
+
+  </main>
+
+    <footer class="d-flex justify-content-center align-items-center bg-dark py-3">
+      <div class="d-flex me-4">
+        <a href="nosotros.html" class=" acerca-footer">Acerca de nosotros</a>
+      </div>
+
+      <div class="d-flex border-start">
+        <p class="text-white-50 ms-4 my-3">© 2025 Mercy Peña. Todos los derechos reservados.</p>
+      </div>
+
+    </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

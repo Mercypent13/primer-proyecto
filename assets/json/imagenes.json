@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1, 
+    "path": "abstract-art-7093399_1920.jpg", 
+    "categorias": [
+      "Arte", 
+      "Digital", 
+      "Abstracto"], 
+    "autor": "Alejandro Ortiz", 
+    "numeroDeDescargas": 284
+  },
+  {
+    "id": 2, 
+    "path": "ai-generated-8592847.png", 
+    "categorias": [
+      "Arte", 
+      "Ratrato", 
+      "Abstracto"], 
+    "autor": "Andrea Rivas", 
+    "numeroDeDescargas": 673
+  },
+  {
+    "id": 3, 
+    "path": "ai-generated-8592850.png", 
+    "categorias": [
+      "Retratos", 
+      "Arte", 
+      "Abstracto"], 
+    "autor": "Samuel Torres", 
+    "numeroDeDescargas": 978
+  },
+  {
+    "id": 4, 
+    "path": "ai-generated-8913807.jpg", 
+    "categorias": [
+      "Esculturas", 
+      "Arte", 
+      "Pinturas"], 
+    "autor": "Andrea Rivas", 
+    "numeroDeDescargas": 272
+  },
+  {
+    "id": 5, 
+    "path": "art-542320.jpg",
+    "categorias": [
+    "Retratos",
+    "Arte",
+    "Objetos"
+    ],
+    "autor": "Samuel Torres", 
+    "numeroDeDescargas": 52
+  },
+  {
+    "id": 6,
+    "path": "art-542324_1920.jpg",
+    "categorias": [
+    "Retratos",
+    "Arte",
+    "Pinturas"
+    ],
+    "autor": "Andrea Rivas",
+    "numeroDeDescargas": 1258
+  },
+  {
+    "id": 7,
+    "path": "art-1844712.jpg",
+    "categorias": [
+    "Construcciones",
+    "Arte",
+    "Objetos"
+    ],
+    "autor": "Samuel Torres",
+    "numeroDeDescargas": 1876
+  },
+  {
+    "id": 8,
+    "path": "auguste-rodin-954134.jpg",
+    "categorias": [
+    "Esculturas",
+    "Arte",
+    "Personas"
+    ],
+    "autor": "Alejandro Ortiz",
+    "numeroDeDescargas": 943
+  },
+  {
+    "id": 9,
+    "path": "auguste-rodin-954136_1920.jpg",
+    "categorias": [
+    "Esculturas",
+    "Arte",
+    "Retratos"
+    ],
+    "autor": "Andrea Rivas",
+    "numeroDeDescargas": 1502
+  },
+  {
+    "id": 10,
+    "path": "berlin-4933295_1920.jpg",
+    "categorias": [
+    "Construcciones",
+    "Esculturas",
+    "Animales"
+    ],
+    "autor": "Alejandro Ortiz",
+    "numeroDeDescargas": 711
+  },
+  {
+    "id": 11,
+    "path": "berlin-5014741.jpg",
+    "categorias": [
+    "Arte",
+    "Objetos",
+    "Pinturas"
+    ],
+    "autor": "Samuel Torres",
+    "numeroDeDescargas": 1985
+  },
+  {
+    "id": 12,
+    "path": "berlin-wall-50727_1280.jpg",
+    "categorias": [
+    "Vehículos",
+    "Arte",
+    "Pinturas"
+    ],
+    "autor": "Andrea Rivas",
+    "numeroDeDescargas": 634
+  },
+  {
+    "id": 13,
+    "path": "bird-7553736_1920.jpg",
+    "categorias": [
+    "Animales",
+    "Arte",
+    "Objetos"
+    ],
+    "autor": "Alejandro Ortiz",
+    "numeroDeDescargas": 1109
+  },
+  {
+    "id": 14,
+    "path": "boho-art-6654957_1920.jpg",
+    "categorias": [
+    "Paisajes",
+    "Arte",
+    "Digital"
+    ],
+    "autor": "Samuel Torres",
+    "numeroDeDescargas": 1390
+  },
+  {
+    "id": 15,
+    "path": "statue-2794910_1920.jpg",
+    "categorias": [
+    "Esculturas",
+    "Personas",
+    "Arte"
+    ],
+    "autor": "Andrea Rivas",
+    "numeroDeDescargas": 521
+  },
+  {
+    "id": 16,
+    "path": "the-louvre-698942_1280.jpg",
+    "categorias": [
+    "Construcciones",
+    "Personas",
+    "Paisajes"
+    ],
+    "autor": "Alejandro Ortiz",
+    "numeroDeDescargas": 1740
+  },
+  {
+    "id": 17,
+    "path": "museum-2208028_1920.jpg",
+    "categorias": [
+    "Construcciones",
+    "Esculturas",
+    "Objetos"
+    ],
+    "autor": "Samuel Torres",
+    "numeroDeDescargas": 855
+  },
+  {
+    "id": 18,
+    "path": "palace-598474.jpg",
+    "categorias": [
+    "Construcciones",
+    "Paisajes",
+    "Objetos"
+    ],
+    "autor": "Andrea Rivas",
+    "numeroDeDescargas": 1067
+  },
+  {
+    "id": 19,
+    "path": "hairstyler-733603_1920.jpg",
+    "categorias": [
+    "Arte",
+    "Retratos",
+    "Construcciones"
+    ],
+    "autor": "Alejandro Ortiz",
+    "numeroDeDescargas": 1629
+  },
+  {
+    "id": 20,
+    "path": "mural-336417.jpg",
+    "categorias": [
+    "Arte",
+    "Personas",
+    "Pinturas"
+    ],
+    "autor": "Samuel Torres",
+    "numeroDeDescargas": 1498
+  }
+]
