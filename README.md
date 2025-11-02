@@ -2,7 +2,7 @@ Descripción General
 Este proyecto marca la culminación de la primera etapa del curso de fundamentos de programación. Es una aplicación web interactiva que tiene como objetivo consolidar los conocimientos esenciales de HTML, CSS, Bootstrap y JavaScript. La aplicación simula una galería de imágenes completa, desde una vista de inicio y galería con filtros, hasta una página de detalle de imagen y una sección "Sobre nosotros" con un formulario de contacto validado.
 
 Tecnologías Clave Utilizadas
-HTML5: Estructura semántica con etiquetas como <header>, <main>, <section> y <footer>.
+HTML5: Estructura semántica con etiquetas como "<header>", "<main>", "<section>" y "<footer>".
 
 CSS3 y Bootstrap: Diseño responsivo y coherente, aplicación de estilos de tipografía, paleta de colores, y maquetación de la interfaz de usuario.
 
